@@ -1,3 +1,5 @@
 friends always 
 git usage file
 created done
+
+1 adding one line on gitnew22 dir
